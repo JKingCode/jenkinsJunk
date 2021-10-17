@@ -22,6 +22,10 @@ class Calculator {
         return a / b;
     }
 
+    double power(double a, double b){
+        return Math.pow(a,b);
+    }
+
 
     /*
     Returns the n'th number in the fibonacci sequence
