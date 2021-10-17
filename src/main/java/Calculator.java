@@ -23,6 +23,7 @@ class Calculator {
     }
 
     double power(double a, double b){
+        // function to find exponential value
         return Math.pow(a,b);
     }
 
